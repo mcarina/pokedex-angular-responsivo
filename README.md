@@ -1,6 +1,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1.
 
-# Pokédex 🖥️
+<h3>Pokédex 🖥️ </h3>
+
 ![gitpoke2](https://user-images.githubusercontent.com/102268481/222938747-b5179660-efd0-4848-b1f6-ed80ae142026.png)
 
 <br>
